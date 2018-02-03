@@ -5,3 +5,4 @@ kashkawal - 1 pita
 smetana 
 blatowe 
 shokolad 
+plodowe
